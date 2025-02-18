@@ -12,7 +12,6 @@ Autore: Web Domus ITALIA
 
 
 
-
 Twitter: 
 http://www.twitter.com/webdomus
 
@@ -45,21 +44,21 @@ Licenza
 
 Questo progetto usa elementi open source:
 
-•	Bootstrap 3.3.6  - http://getbootstrap.com/
-•	Google Font
-•	Isotope PACKAGED v2.2.2 - http://isotope.metafizzy.co
-•	selectordie.js -  Vst.mn
-•	Fontawesome - http://fontawesome.io/
+ï¿½	Bootstrap 3.3.6  - http://getbootstrap.com/
+ï¿½	Google Font
+ï¿½	Isotope PACKAGED v2.2.2 - http://isotope.metafizzy.co
+ï¿½	selectordie.js -  Vst.mn
+ï¿½	Fontawesome - http://fontawesome.io/
 
 
 Imamagini
 
-•	Unsplash - https://unsplash.com/
+ï¿½	Unsplash - https://unsplash.com/
 
 Fonts -  Google Fonts
-•	Open Sans - https://www.google.com/fonts/specimen/Open+Sans
-•	Roboto - https://www.google.com/fonts/specimen/Roboto
-•	Bebas Neue Font - http://www.dafont.com/bebas-neue.font
+ï¿½	Open Sans - https://www.google.com/fonts/specimen/Open+Sans
+ï¿½	Roboto - https://www.google.com/fonts/specimen/Roboto
+ï¿½	Bebas Neue Font - http://www.dafont.com/bebas-neue.font
 
 ========================
 
